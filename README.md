@@ -67,6 +67,7 @@ Existen dos tipos principales:
   
 
 3. ¿Cómo se pueden conservar los recursos naturales?
+   
 
     La conservación de los recursos naturales es un compromiso compartido entre gobiernos, empresas y ciudadanos. Algunas acciones concretas son:
 
@@ -89,6 +90,7 @@ Existen dos tipos principales:
 
 
 4. Importancia de cuidar y preservar los recursos naturales
+   
 
 Cuidar los recursos naturales es esencial por varias razones:
 
@@ -105,8 +107,10 @@ Cuidar los recursos naturales es esencial por varias razones:
 
 - Cambio climático: La conservación ayuda a mitigar sus efectos, protegiendo la biodiversidad y reduciendo los desastres naturales.
   
+  
 
 5. Consecuencias de no cuidar los recursos naturales:
+   
    
 
 - Extinción de especies animales y vegetales.
@@ -126,6 +130,8 @@ Cuidar los recursos naturales es esencial por varias razones:
 
 6. Ejemplos de acciones exitosas de conservación
 
+   
+
 - Costa Rica: modelo en reforestación y uso de energías renovables.
 
 - Panamá: creación del Parque Nacional Darién y áreas protegidas que preservan la biodiversidad.
@@ -133,6 +139,8 @@ Cuidar los recursos naturales es esencial por varias razones:
 - Programas escolares: reciclaje, huertos comunitarios y campañas de limpieza.
 
 - Comunidades indígenas: prácticas tradicionales de respeto y uso sostenible de la naturaleza.
+
+  
 
 🌟 7. Mensaje final 
 
