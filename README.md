@@ -1,4 +1,5 @@
 🌍 Conservación de los Recursos Naturales: Flora, Fauna, Agua y Atmósfera
+
 ¿Qué son los recursos naturales?
 
 Los recursos naturales son todos aquellos bienes y elementos que la naturaleza nos proporciona de manera directa, sin necesidad de que intervenga el ser humano para producirlos. Son la base de la vida en el planeta y sostienen todas las actividades humanas, económicas y sociales.
@@ -65,10 +66,8 @@ Existen dos tipos principales:
 
 - Su cuidado es esencial para mitigar el cambio climático y la contaminación.
   
-
 3. ¿Cómo se pueden conservar los recursos naturales?
    
-
     La conservación de los recursos naturales es un compromiso compartido entre gobiernos, empresas y ciudadanos. Algunas acciones concretas son:
 
 - Reducir, reutilizar y reciclar para disminuir la cantidad de residuos.
